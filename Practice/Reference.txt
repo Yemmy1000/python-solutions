@@ -1,0 +1,86 @@
+Mohamed. M. Elbasyouni, Elsaeed. E. Abdelrazek, Doaa. M. Hawa (2014). Building Domain Specific Search Engine Based on DLS and VSM Algorithms. (IJCSIT) International Journal of Computer Science and Information Technologies, Vol. 5 (3) , 2014, 4546-4551
+
+
+D. Inkpen : ” Information Retrieval on the Internet” , Ph.D.,University of Toronto ,Canada , 2006. available: http://www.site.uottawa.ca/~diana/csi4107/IR_draft.pdf
+
+Craig A. N. Soules, Gregory R. Ganger (2005). Connections: Using Context to Enhance File Search. SOSP'05, Brighton, United Kingdom. Copyright 2005 ACM 1­59593­079­5/05/0010 
+
+Pattisapu Nikhil Priyatam, Ajay Dubey, Krish Perumal, Sai Praneeth, Dharmesh Kakadia, Vasudeva Varma (2014). Seed Selection for Domain-Specific Search. International World Wide Web Conference Committee (IW3C2). ACM 978-1-4503-2745-9/14/04.
+http://dx.doi.org/10.1145/2567948.2579216
+
+IDACHABA FRANCIS ENEJO (2011). Lecture Note On INTERNET ARCHITECTURE AND COMMUNICATIONS. NATIONAL OPEN UNIVERSITY OF NIGERIA
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein (2009). Introduction to Algorithms Third Edition. Massachusetts Institute of Technology
+
+
+
+Craig A. N. Soules, Gregory R. Ganger (2005). Connections: Using Context to Enhance File Search. SOSP'05, October 23?26, 2005, Brighton, United Kingdom. Copyright 2005 ACM 1­59593­079­5/05/0010 
+
+
+Alex Po Leung & Peter Auer (2008). An Efficient Search Algorithm for Content-Based Image Retrieval with User Feedback. Department fur Mathematik und Informationstechnologie Montanuniversit¨at Leoben Franz-Josef-Straße, ustria.
+
+M. L. Mauldin (1991). Retrieval performance in Ferret a conceptual information retrieval system. ACM SIGIR Conference on Research and Development in Information Retrieval, pages 347{355. ACM Press, 1991.
+
+J. M. Kleinberg (1999). Authoritative sources in a hyperlinked environment. Journal of the ACM, 46(5):604{632. ACM, September 1999.
+
+S. Brin and L. Page (1998). The anatomy of a large-scale hypertextual web search engine. Computer Networks and ISDN Systems, 30(1{7):107{117, 1998.
+
+U. Manber, M. Smith, and B. Gopal (1997). WebGlimpse: combining browsing and searching. USENIX Annual Technical Conference. USENIX Association, 1997
+
+
+
+
+Irfan Ahmed, Kyung-Suk Lhee, Hyun-Jung Shin and Man-Pyo Hong (2011). FAST CONTENT-BASED FILE TYPE IDENTIFICATION. G. Peterson and S. Shenoi (Eds.): Advances in Digital Forensics VII, IFIP AICT 361, pp. 65–75, 2011. IFIP International Federation for Information Processing 2011
+
+
+S. Garfinkel (2007). Carving contiguous and fragmented files with fast object
+validation, Digital Investigation, vol. 4(S1), pp. 2–12, 2007.
+
+[5] R. Harris (2007). Using Artificial Neural Networks for Forensic File Type
+Identification, CERIAS Technical Report 2007-19, Center for Education
+and Research in Information Assurance and Security, Purdue
+University, West Lafayette, Indiana, 2007.
+
+[9] W. Li, K. Wang, S. Stolfo and B. Herzog (2005). Fileprints: Identifying file
+types by n-gram analysis, Proceedings of the Sixth Annual IEEE
+Information Assurance Workshop, pp. 64–71, 2005.
+
+V. Roussev and S. Garfinkel (2009). File fragment classification – The case
+for specialized approaches, Proceedings of the Fourth International
+IEEE Workshop on Systematic Approaches to Digital Forensic Engineering,
+pp. 3–14, 2009.
+
+
+M. Andrea Rodríguez and Francisco A. Godoy (2002). Department of Information Engineering and Computer Science University of Concepción and Center for Web Research University of Chile Edmundo Larenas 215, Concepción, Chile.
+
+
+
+Shubham Bhagwat, Pranmay Jadhav, Soumadwip Das, Dipali Tungar (2017). International Journal of Innovative Research in Computer and Communication Engineering, An ISO 3297: 2007 Certified Organization. Vol. 5, Issue 2, February 2017
+
+
+
+
+M.Sirisha and Sanjeeva Rao Sanku (2013). Adapting a Ranking Model for Specific Search. International Journal of Scientific and Research Publications, Volume 3, Issue 11, November 2013. ISSN 2250-3153
+
+
+
+Ville H. Tuulos (2007). Design and Implementation of a Content-Based Search Engine. Master's Thesis UNIVERSITY OF HELSINKI Department of Computer Science
+
+
+Clarke C. & Cormack G. (1995). Dynamic Inverted Indexes for a Distributed Full-Text Retrieval System. TechRep MT-95-01, University of Waterloo, February 1995.
+
+Sikos, L. F. (2016). RDF-powered semantic video annotation tools with concept mapping to Linked Data for next-generation video indexing. Multimedia Tools and Applications. doi:10.1007/s11042-016-3705-7.
+
+
+Charles E. Jacobs, Adam Finkelstein, David H. Salesin (2006). Fast Multiresolution Image Querying. Department of Computer Science and Engineering, University of Washington. 
+
+
+
+Brown E.W.(1995). Execution Performance Issues in Full-Text Information Retrieval. Computer Science Department, University of Massachusetts Amherst, Technical Report 95-81.
+
+Cutting, D., Pedersen, J. (1990). Optimizations for dynamic inverted index maintenance. Proceedings of SIGIR, 405-411.
+
+
+Jeffrey Dean and Sanjay Ghemawat (2004). MapReduce: Simplified Data Processing on Large Clusters. Google, Inc. OSDI. 
+
+Mohamed
